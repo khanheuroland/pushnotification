@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087548325595",
+    "project_id": "vcbreactnative",
+    "storage_bucket": "vcbreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087548325595:android:cc494a8f94e52d0cbf96fe",
+        "android_client_info": {
+          "package_name": "com.nfcsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVCQIMuPU9s1dq6b93oEkAFLErYg35wa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
